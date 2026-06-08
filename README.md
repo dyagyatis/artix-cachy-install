@@ -5,7 +5,7 @@
 ## Использование
 1. Загрузитесь с любого Arch/Artix Live ISO.
 2. Скачайте скрипт:
-   `curl -O https://raw.githubusercontent.com/ВАШ_НИК/artix-cachy-install/main/install.sh`
+   `curl -O https://raw.githubusercontent.com/dyagyatis/artix-cachy-install/main/install.sh`
 3. Сделайте исполняемым и запустите:
    `chmod +x install.sh && sudo ./install.sh`
 
